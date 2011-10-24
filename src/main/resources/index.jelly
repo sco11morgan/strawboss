@@ -1,0 +1,6 @@
+<!--
+  This view is used to render the installed plugins page.
+-->
+<div>
+  Strawboss supports the same features as Jenkins external job monitor with added support for sending email notifications or triggering other jobs.
+</div>
